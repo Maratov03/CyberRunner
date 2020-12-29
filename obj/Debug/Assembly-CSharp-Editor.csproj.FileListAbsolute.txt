@@ -1,0 +1,2 @@
+D:\UnityProjects\CyberRunner\Ptototype\CyberRunner\CynerRunner\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+D:\UnityProjects\CyberRunner\Ptototype\CyberRunner\CynerRunner\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
